@@ -49,6 +49,7 @@ Register as a new customer or log in with existing credentials.
 Use the different forms to manage customer data, orders, products, invoices, etc.
 View, edit, or delete records as needed.
 Use the audit functionality to keep track of changes made to tables.
+
 ##Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
