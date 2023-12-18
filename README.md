@@ -31,27 +31,34 @@ This project is a cosmetics database management system developed as part of the 
    ```bash
    git clone https://github.com/javeria2108/Database_Management_System_MakeupShop
 
-2.Open the project in your preferred development environment (e.g., Visual Studio).
+## Development Environment
+- Open the project in your preferred development environment (e.g., Visual Studio).
 
-3.Set up the database:
+## Database Setup
+1. Ensure you have SQL Server installed.
+2. Create a new database (e.g., "CosmeticsDatabaseProject").
+3. Execute the SQL scripts in the `database-scripts` directory to create the necessary tables.
 
-Make sure you have SQL Server installed.
-Create a new database (e.g., "CosmeticsDatabaseProject").
-Execute the SQL scripts in the database-scripts directory to create the necessary tables.
-Update the connection string:
+## Connection String Update
+- Open the project's code and locate the connection string in the form files (e.g., `CustomersForm.cs`, `OrdersForm.cs`, etc.).
+- Replace the connection string details with your own SQL Server credentials.
 
-4.Open the project's code and locate the connection string in the form files (e.g., CustomersForm.cs, OrdersForm.cs, etc.).
-Replace the connection string details with your own SQL Server credentials.
-Build and run the project.
+## Build and Run
+- Build and run the project.
 
-5.Usage
-Register as a new customer or log in with existing credentials.
-Use the different forms to manage customer data, orders, products, invoices, etc.
-View, edit, or delete records as needed.
-Use the audit functionality to keep track of changes made to tables.
+# Usage
+- Register as a new customer or log in with existing credentials.
+- Use the different forms to manage customer data, orders, products, invoices, etc.
+- View, edit, or delete records as needed.
+- Utilize the audit functionality to keep track of changes made to tables.
 
-##Contributing
+# Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request to merge your changes into the main repository.
 
 Fork the repository.
 Create a new branch for your feature or bug fix.
