@@ -47,6 +47,7 @@ This project is a cosmetics database management system developed as part of the 
 - Build and run the project.
 
 # Usage
+- Open the GUI in Visual Studio.
 - Register as a new customer or log in with existing credentials.
 - Use the different forms to manage customer data, orders, products, invoices, etc.
 - View, edit, or delete records as needed.
