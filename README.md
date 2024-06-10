@@ -37,7 +37,7 @@ This project is a cosmetics database management system developed as part of the 
 ## Database Setup
 1. Ensure you have SQL Server installed.
 2. Create a new database (e.g., "CosmeticsDatabaseProject").
-3. Execute the SQL scripts in the `database-scripts` directory to create the necessary tables.
+3. Execute the SQL scripts in the `SQLQueries` directory to create the necessary tables.
 
 ## Connection String Update
 - Open the project's code and locate the connection string in the form files (e.g., `CustomersForm.cs`, `OrdersForm.cs`, etc.).
